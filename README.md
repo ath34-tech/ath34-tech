@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a Real-world end-to-end project using Django and cloud storage fauna DB &lpar;Part 2&rpar;](https://medium.com/geekculture/making-a-real-world-end-to-end-project-using-django-and-cloud-storage-fauna-db-part-2-ba826d1a9415?source=rss-1678368cc06e------2)
+- [Making a Real-world end-to-end project using Django and cloud storage fauna DB &lpar;Part 1&rpar;](https://medium.com/geekculture/making-a-real-world-end-to-end-project-using-django-and-cloud-storage-fauna-db-part-1-b89011b8466c?source=rss-1678368cc06e------2)
+- [Making a very basic portfolio 3D-object website using react and three-fiber](https://medium.com/geekculture/making-a-very-basic-portfolio-3d-object-website-using-react-and-three-fiber-d2673e620dac?source=rss-1678368cc06e------2)
+- [Making Django website faster than before just using simple tricks](https://medium.com/geekculture/making-django-website-faster-than-before-just-using-simple-tricks-7cbe86df281?source=rss-1678368cc06e------2)
+- [Make beautiful eCommerce card](https://medium.com/geekculture/make-beautiful-ecommerce-card-8cfe10e588dd?source=rss-1678368cc06e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
