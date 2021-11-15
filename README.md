@@ -50,7 +50,6 @@
 
  <hr/>
 
-
 <p>
  <img height="200px" width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ath34-tech&show_icons=true&locale=en&layout=compact" alt="ath34-tech" />
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/1365253/screenshots/11419536/media/c871d8a271fa0c77b5ea9c86d155c56d.gif" /> </a>
