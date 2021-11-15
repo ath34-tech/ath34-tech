@@ -52,7 +52,8 @@
 
 <p>
  <img height="200px" width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ath34-tech&show_icons=true&locale=en&layout=compact" alt="ath34-tech" />
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/media/8b4786572205a8ac7305403f5e495c81.gif" />
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+
 
 </p>
 
