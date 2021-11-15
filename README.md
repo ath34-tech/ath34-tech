@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ath tripathi , a high schooler ,teenager and programmer</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Ath tripathi , a high schooler ,teenager and programmer</h1>
 
 <h3 align="center">I can make anything I want😎(I can make desktop apps,web apps,mobile apps, and unity games)</h3>
  <hr/>
@@ -48,11 +51,15 @@
  <hr/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ath34-tech&show_icons=true&locale=en&layout=compact" alt="ath34-tech" /></p>
+<p>
+ <img height="200px" width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ath34-tech&show_icons=true&locale=en&layout=compact" alt="ath34-tech" />
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+
+</p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ath34-tech&show_icons=true&locale=en" alt="ath34-tech" /></p>
+<p>&nbsp;<img height="200px" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=ath34-tech&show_icons=true&locale=en" alt="ath34-tech" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ath34-tech&" alt="ath34-tech" /></p>
+<p><img height="200px" width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ath34-tech&" alt="ath34-tech" /></p>
 
