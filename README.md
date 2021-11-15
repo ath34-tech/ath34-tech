@@ -61,5 +61,5 @@
 <p>&nbsp;<img height="200px" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=ath34-tech&show_icons=true&locale=en" alt="ath34-tech" /></p>
 
 
-<p><img height="200px" width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ath34-tech&" alt="ath34-tech" /></p>
+<p><img height="200px" width="400" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ath34-tech&" alt="ath34-tech" /></p>
 
