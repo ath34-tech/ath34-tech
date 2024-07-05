@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Ath tripathi , a high schooler ,teenager and programmer</h1>
+         width="45" />, I'm Ath tripathi , a college student ,teenager and programmer</h1>
 
 <h3 align="center">I can make anything I want😎(I can make desktop apps,web apps,mobile apps, and unity games)</h3>
  <hr/>
