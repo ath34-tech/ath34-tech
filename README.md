@@ -3,17 +3,17 @@
          height="45"
          width="45" />, I'm Ath tripathi , a college student ,teenager and programmer</h1>
 
-<h3 align="center">I can make anything I want😎(I can make desktop apps,web apps,mobile apps, and unity games)</h3>
+<h3 align="center">I can make anything I want😎(I can make desktop apps,web apps,mobile apps, and unity games), Now just focusing on ML/MLops</h3>
  <hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ath34-tech" alt="ath34-tech" /></a> </p>
 
 - 🔭 I’m currently doing open source contribution [to fossasia](https://github.com/fossasia)
 
-- 🌱 I’m currently learning **Unity game development**
+- 🌱 I’m currently learning **ML/MLops**
 
 - 👯 I’m looking to collaborate on **some startup projects**
 
-- 🤝 I’m looking for help with **technical writing,APIs,frontend and backend. Maybe mobile app development too!**
+- 🤝 I’m looking for help with **technical writing and ML!**
 
 - 📝 I regularly write articles on [https://medium.com/@athtripathi](https://medium.com/@athtripathi)
 
@@ -21,7 +21,7 @@
 
 - 📫reach me through my email: **athtripathi@gmail.com**
 
-- ⚡ Fun fact **I am bad at schooling.**
+- ⚡ Fun fact **I am actually good at academics too**
 
  <hr/>
 
