@@ -1,13 +1,13 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Ath tripathi , a college student ,teenager and programmer</h1>
+         width="45" />, I'm Ath tripathi, a college student ,teenager and programmer</h1>
 
-<h3 align="center">I can make anything I want😎(I can make desktop apps,web apps,mobile apps, and unity games), Now just focusing on ML/MLops</h3>
+<h3 align="center">I can make anything I want😎(I can make desktop apps,web apps,mobile apps, and unity games), Now just focusing on ML/MLops and web3</h3>
  <hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ath34-tech" alt="ath34-tech" /></a> </p>
 
-- 🔭 I’m currently doing open source contribution [to fossasia](https://github.com/fossasia)
+- 🔭 I’m currently doing engineering in computer science with AI specialization.
 
 - 🌱 I’m currently learning **ML/MLops**
 
